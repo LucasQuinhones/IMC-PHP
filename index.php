@@ -23,7 +23,7 @@
                 <input type="text" id="name" name="nome1" required>
 
                 <label for="age">Idade: </label>
-                <input type="number" name="idade1" id="age" required>
+                <input type="number" min="0" name="idade1" id="age" required>
 
                 <label for="weight">Peso: </label>
                 <input type="text" name="peso1" id="weight" required>
@@ -40,7 +40,7 @@
                 <input type="text" id="name" name="nome2" required>
 
                 <label for="age">Idade: </label>
-                <input type="number" name="idade2" id="age" required>
+                <input type="number" min="0" name="idade2" id="age" required>
 
                 <label for="weight">Peso: </label>
                 <input type="text" name="peso2" id="weight" required>
@@ -56,7 +56,7 @@
                 <input type="text" id="name" name="nome3" required>
 
                 <label for="age">Idade: </label>
-                <input type="number" name="idade3" id="age" required>
+                <input type="number" min="0" name="idade3" id="age" required>
 
                 <label for="weight">Peso: </label>
                 <input type="text" name="peso3" id="weight" required>
