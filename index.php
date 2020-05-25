@@ -1,6 +1,7 @@
 <?php
 // Start the session
-session_start();
+// session_start();
+// 
 ?>
 <html lang="pt-br">
 
@@ -64,8 +65,8 @@ session_start();
                 <input type="text" name="altura3" id="height" required>
             </div>
             <div class="botoes">
-                <button type="submit">Mostar resultado</button>
-                <button type="reset">Limpar</button>
+                <button class="btn" type="submit">Mostar resultado</button>
+                <button class="btn" type="reset">Limpar</button>
             </div>
         </form>
     </div>
